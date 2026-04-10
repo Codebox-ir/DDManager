@@ -49,7 +49,7 @@ Instead of using heavy software, this tool focuses on speed, portability, and ea
 Found a bug or have a suggestion?
 
 👉 Report here:  
-https://yourdomain.com/report
+You can report bugs in this repo's issues.
 
 ## 👤 Author
 
