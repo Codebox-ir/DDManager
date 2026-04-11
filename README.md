@@ -31,12 +31,12 @@ Choose the version that matches your system:
 - **32-bit**
 
 👉 Download from:  
-[https://yourdomain.com](https://yourdomain.com)
+[[https://yourdomain.com](https://yourdomain.com)](https://github.com/Codebox-ir/DDManager/releases/tag/1.0.0)
 
 ## 🧠 Why DDManager?
 
 DDManager was built to provide a simple and efficient solution for managing Windows drivers.  
-Instead of using heavy software, this tool focuses on speed, portability, and ease of use.
+Instead of relying on heavy software, this tool prioritizes speed, portability, and ease of use.
 
 ## 🛠 Tech / Approach
 
@@ -49,7 +49,7 @@ Instead of using heavy software, this tool focuses on speed, portability, and ea
 Found a bug or have a suggestion?
 
 👉 Report here:  
-https://yourdomain.com/report
+You can report bugs in this repo's issues.
 
 ## 👤 Author
 
