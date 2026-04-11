@@ -31,7 +31,7 @@ Choose the version that matches your system:
 - **32-bit**
 
 👉 Download from:  
-[[https://yourdomain.com](https://yourdomain.com)](https://github.com/Codebox-ir/DDManager/releases/tag/1.0.0)
+[[V 1.0.0](https://github.com/Codebox-ir/DDManager/releases/tag/1.0.0)]
 
 ## 🧠 Why DDManager?
 
